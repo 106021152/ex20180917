@@ -1,0 +1,33 @@
+body{
+    background-image:url("下載.jpg");
+}
+.center{
+    font-size: 1.5em;
+    text-shadow: 2ex 2ex 2ex;
+    color: orange;
+    text-align: center;
+}
+.center2{
+    font-size: 1.5em;
+    text-shadow: 2ex 2ex 2ex;
+    color: black;
+    text-align: center;
+}
+.center3{
+    font-size: 1.5em;
+    text-shadow: 2ex 2ex 2ex;
+    color: red;
+    text-align: center;
+}
+.center4{
+    font-size: 1.5em;
+    text-shadow: 2ex 2ex 2ex;
+    color: green;
+    text-align: center;
+}
+.center5{
+    font-size: 1.5em;
+    text-shadow: 2ex 2ex 2ex;
+    color: blue;
+    text-align: center;
+}
